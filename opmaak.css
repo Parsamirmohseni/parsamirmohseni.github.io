@@ -5,3 +5,17 @@ ul {
   overflow: hidden;
   background-color: #B2E2F6;
 }
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
