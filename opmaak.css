@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: rgb(130, 218, 206);
+  color: rgb(123, 81, 207);
   text-align: center;
 }
 
@@ -19,8 +19,8 @@ p {
 </head>
 <body>
 
-<h1>WELKOM OP DEZE SITE</h1>
-<p>COMING SOON!.</p>
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
