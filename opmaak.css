@@ -1,23 +1,7 @@
-<head>
-<style>
-body {
-  background-color: lightblue;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #B2E2F6;
 }
-
-h1 {
-  color: rgb(123, 81, 207);
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
