@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(185, 179, 145);
+  background-color: rgb(255, 234, 118);
 }
 
 h1 {
-  color: hwb(240 15% 15%);
+  color: hwb(0 6% 18%);
   margin-left: 20px;
 }
 
@@ -18,20 +18,20 @@ ul {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #f40000;
-  border: 1px solid #aa7575;
+  background-color: #2d510d;
+  border: 1px solid #950909;
 }
 
 li a {
   display: block;
-  color: #000;
+  color: #b80808;
   padding: 8px 16px;
   text-decoration: none;
 }
 
 li {
   text-align: center;
-  border-bottom: 1px solid #555;
+  border-bottom: 1px solid #ff0000;
 }
 
 li:last-child {
@@ -40,11 +40,11 @@ li:last-child {
 
 
 li a.active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #9c0000;
+  color: rgb(193, 14, 14);
 }
 
 li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+  background-color: #f50e0e;
+  color: rgb(255, 0, 0);
 }
