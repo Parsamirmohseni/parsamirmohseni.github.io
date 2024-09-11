@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(255, 234, 118);
+  background-color: rgb(148, 148, 148);
 }
 
 h1 {
-  color: hwb(0 6% 18%);
+  color: hwb(56 5% 5%);
   margin-left: 20px;
 }
 
