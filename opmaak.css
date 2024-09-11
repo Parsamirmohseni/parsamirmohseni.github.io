@@ -42,7 +42,7 @@ li:last-child {
 
 li a.active {
   background-color: #ceff08;
-  color: rgb(193, 14, 14);
+  color: rgb(255, 251, 0);
 }
 
 li a:hover:not(.active) {
