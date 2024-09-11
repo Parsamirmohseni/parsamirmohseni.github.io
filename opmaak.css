@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(148, 148, 148);
-} /*achtergrond kleur*/
+  background-color: rgb(148, 148, 148); /*achtergrond kleur*/
+}
 
 h1 {
   color: hwb(56 5% 5%);
@@ -41,11 +41,11 @@ li:last-child {
 
 
 li a.active {
-  background-color: #ceff08;
-  color: rgb(255, 251, 0);
+  background-color: #ffffff;
+  color: rgb(245, 245, 245);
 }
 
 li a:hover:not(.active) {
-  background-color: #f50e0e;
-  color: rgb(255, 0, 0);
+  background-color: #ffff00;
+  color: rgb(253, 135, 255);
 }
