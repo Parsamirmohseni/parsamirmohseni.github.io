@@ -25,14 +25,14 @@ ul {
 
 li a {
   display: block;
-  color: #0043eb;
+  color: #0043eb; /*tekst kleur menu*/
   padding: 8px 16px;
   text-decoration: none;
 }
 
 li {
   text-align: center;
-  border-bottom: 1px solid #ff0000;
+  border-bottom: 1px solid #00ff4c;
 }
 
 li:last-child {
