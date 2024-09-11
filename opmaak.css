@@ -46,6 +46,6 @@ li a.active {
 }
 
 li a:hover:not(.active) {
-  background-color: #ffff00;
-  color: rgb(253, 135, 255);
+  background-color: #ffff00; /*kleur menu blok als je er op gaat*/
+  color: rgb(253, 135, 255); /*tekst kleur menu als je er op gaat*/
 }
