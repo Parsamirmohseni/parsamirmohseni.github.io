@@ -1,10 +1,10 @@
 body {
   background-color: rgb(148, 148, 148);
-}
+} /*achtergrond kleur*/
 
 h1 {
   color: hwb(56 5% 5%);
-  margin-left: 20px;
+  margin-left: 20px; 
 }
 
 ul {
@@ -20,7 +20,7 @@ ul {
   padding: 0;
   width: 200px;
   background-color: #98f8d5;
-  border: 1px solid #950909;
+  border: 1px solid #2bff00;
 }
 
 li a {
