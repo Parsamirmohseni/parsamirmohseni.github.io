@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(255, 255, 255); /*achtergrond kleur*/
+  background-color: rgb(143, 227, 255); /*achtergrond kleur*/
 }
 
 h1 {
-  color: hwb(148 41% 0%);
+  color: hwb(0 0% 0%);
   margin-left: 20px; 
 }
 
