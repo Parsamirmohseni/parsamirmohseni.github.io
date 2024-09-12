@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(148, 148, 148); /*achtergrond kleur*/
+  background-color: rgb(255, 255, 255); /*achtergrond kleur*/
 }
 
 h1 {
-  color: hwb(56 5% 5%);
+  color: hwb(148 41% 0%);
   margin-left: 20px; 
 }
 
@@ -19,7 +19,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #98f8d5; /*achtergrond kleur menu*/
+  background-color: #212c28; /*achtergrond kleur menu*/
   border: 1px solid #bb00ff; /*kleur lijntjes zijkant menu*/
 }
 
@@ -47,5 +47,5 @@ li a.active {
 
 li a:hover:not(.active) {
   background-color: #ffff00; /*kleur menu blok als je er op gaat*/
-  color: rgb(253, 135, 255); /*tekst kleur menu als je er op gaat*/
+  color: rgb(98, 255, 0); /*tekst kleur menu als je er op gaat*/
 }
