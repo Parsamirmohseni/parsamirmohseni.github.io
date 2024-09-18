@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #292929; /*kleur achtergrond menu*/
+    background-color: #ffffff; /*kleur achtergrond menu*/
   }
 
   li {
@@ -15,12 +15,12 @@ body {
 
   li a {
     display: block;
-    color: rgb(0, 234, 255);
+    color: rgb(185, 185, 185);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
 
   li a:hover {
-    background-color: #b4ff7f;
+    background-color: rgb(175, 175, 175);
   }
