@@ -1,48 +1,10 @@
 body {
   background-color: rgb(143, 227, 255); /*achtergrond kleur*/
-}
 
-h1 {
-  color: hwb(0 0% 0%);
-  margin-left: 200px; 
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-ul {
-  
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #ffffff; /*achtergrond kleur menu*/
-  border: 1px solid #0011ff; /*kleur lijntjes zijkant menu*/
-}
-
-li a {
-  display: block;
-  color: #ff0000; /*tekst kleur menu*/
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-li {
-  text-align: center;
-  border-bottom: 1px solid #0011ff; /*kleur lijntjes binnen menu*/
-}
-
-li:last-child {
-  border-bottom: none;
-}
-
-
-
-
-li a:hover:not(.active) {
-  background-color: #d2d2d2; /*kleur menu blok als je er op gaat*/
-  color: rgb(98, 255, 0); /*tekst kleur menu als je er op gaat*/
-}
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a4a3a3;
+  }
