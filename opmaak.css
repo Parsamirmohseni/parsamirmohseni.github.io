@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(143, 227, 255); /*achtergrond kleur hele pagina*/
+  background-color: rgb(255, 255, 255); /*achtergrond kleur hele pagina*/
 
   ul {
     list-style-type: none;
@@ -22,5 +22,5 @@ body {
   }
 
   li a:hover {
-    background-color: rgba(255, 0, 0, 0.956);
+    background-color: rgba(255, 255, 255, 0.956); /*kleur menu als je er op gaat*/
   }
