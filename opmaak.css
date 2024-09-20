@@ -28,3 +28,9 @@ body {
   .active {
     background-color: #04AA6D;
   }
+
+  ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
