@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #ff0000;
+    background-color: #5e769e; /*achtergrond kleur menu*/
   }
 
   li {
@@ -15,14 +15,14 @@ body {
 
   li a {
     display: block;
-    color: rgb(85, 255, 0);
+    color: rgb(0, 0, 0); /*tekst kleur menu*/
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
 
   li a:hover {
-    background-color: #111;
+    background-color: #ff0000;
   }
 
   .active {
