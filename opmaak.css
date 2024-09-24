@@ -22,7 +22,7 @@ body {
   }
 
   li a:hover {
-    background-color: #ff0000;
+    background-color: #ff0000; /*achtergrond kleur menu als je er op gaat*/
   }
 
   .active {
