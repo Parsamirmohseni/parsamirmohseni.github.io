@@ -22,11 +22,11 @@ body {
   }
 
   li a:hover {
-    background-color: #ff0000; /*achtergrond kleur menu als je er op gaat*/
+    background-color: #ffffff; /*achtergrond kleur menu als je er op gaat*/
   }
 
   .active {
-    background-color: #00ffa2;
+    background-color: #ff5100;
   }
 
   ul {
