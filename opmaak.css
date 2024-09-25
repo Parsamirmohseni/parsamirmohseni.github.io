@@ -17,7 +17,7 @@ body {
     display: block;
     color: rgb(0, 0, 0); /*tekst kleur menu*/
     text-align: center;
-    padding: 30px 30px;
+    padding: 20px 20px; /*grootte blok menu*/
     text-decoration: none;
   }
   
