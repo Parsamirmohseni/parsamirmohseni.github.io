@@ -36,9 +36,3 @@ body {
   padding: auto;
   text-align: left;
   }
-
-  .center { 
-    height: 200px;
-    position: relative;
-    border: 100px solid #5e769e; 
-  }
