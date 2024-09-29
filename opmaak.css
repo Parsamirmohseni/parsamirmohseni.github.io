@@ -28,8 +28,10 @@ body {
   }
 
   h1 {
-    font-family: Arial, sans-serif; /*font titel op pagina*/
-    font-size: 24px; /*size titel op pagina*/
-    color: #fffb00; /*kleur titel op pagina*/
-    font-style: normal; /*font titel op pagina*/
+  font-family: Arial, sans-serif; /*font titel op pagina*/
+  font-size: 40px; /*size titel op pagina*/
+  color: #1900ff; /*kleur titel op pagina*/
+  font-style: normal; /*font titel op pagina*/
+  margin: 0;
+  padding: 0;
   }
