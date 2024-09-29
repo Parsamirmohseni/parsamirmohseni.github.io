@@ -32,6 +32,7 @@ body {
   font-size: 40px; /*size titel op pagina*/
   color: #1900ff; /*kleur titel op pagina*/
   font-style: normal; /*font titel op pagina*/
-  margin: 10;
-  padding: 10;
+  margin: auto;
+  padding: auto;
+  text-align: center;
   }
