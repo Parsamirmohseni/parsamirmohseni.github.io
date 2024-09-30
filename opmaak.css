@@ -76,6 +76,7 @@ h3 {
   left: 1%;
   right: 0%;
   width: 98%;
-  padding: 5%;
+  margin: auto;
+  padding: auto;
   background-color: #5e769e;
 }
