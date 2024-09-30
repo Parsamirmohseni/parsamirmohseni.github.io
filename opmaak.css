@@ -27,7 +27,7 @@ li a:hover {
     background-color: #ffffff; /*achtergrond kleur menu als je er op gaat*/
   }
 
- h1 {
+h1 {
   font-family: Arial, sans-serif; /*font titel op pagina*/
   font-size: 50px; /*size titel op pagina*/
   color: #000000; /*kleur titel op pagina*/
