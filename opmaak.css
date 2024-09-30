@@ -78,3 +78,9 @@ h3 {
   width: 98%;
   background-color: #c2c2c2;
 }
+
+.position-img2
+{
+  float: right;
+  width: 10%;
+}
