@@ -34,7 +34,7 @@ li a:hover {
   font-style: normal; /*font titel op pagina*/
   margin: auto;
   padding: auto;
-  text-align: center;
+  text-align: left;
   }
 
 h2 {
@@ -44,7 +44,7 @@ h2 {
     font-style: normal; /*font titel op pagina*/
     margin: auto;
     padding: auto;
-    text-align: center;
+    text-align: left;
     }
 
 h3 {
@@ -54,7 +54,7 @@ h3 {
     font-style: normal; /*font titel op pagina*/
     margin: auto;
     padding: auto;
-    text-align: center;
+    text-align: left;
    }
 
 .image1
