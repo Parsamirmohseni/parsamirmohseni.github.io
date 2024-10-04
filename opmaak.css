@@ -80,6 +80,17 @@ h3 {
   background-color: #0084ff;
 }
 
+.hele-body2
+{
+  position: absolute;
+  top: 15%;
+  left: 2%;
+  right: 0%;
+  width: 96%;
+  background-color: #0084ff;
+}
+
+
 .position-img2
 {
   float: right;
