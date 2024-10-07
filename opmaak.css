@@ -150,7 +150,7 @@ h3 {
   padding: 12px; /* Ruimte rondom de inhoud van de footer */ 
   text-align: center; /* Centreer de tekst in de footer */
   color: rgb(0, 0, 0); /* Tekstkleur van de footer */
-  position: relative; /* Positie van waar de footer staat */ 
+  position: bottom; /* Positie van waar de footer staat */ 
   width: 100%; /* Breedte van de footer */
   left: 1; /* Ruimte naar de linkerkant */
 }
