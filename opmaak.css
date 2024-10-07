@@ -68,65 +68,65 @@ h3 {
 
 .hele-body1
 {
-  position: absolute;
-  top: 15%;
-  left: 2%;
-  right: 0%;
-  width: 96%;
-  background-color: #0084ff;
+  position: absolute; /*positie van het element*/
+  top: 15%; /*afstand tussen de bovenkant en blauwe blokje*/
+  left: 2%; /*afstand tussen linkerkant en blauwe blokje*/
+  right: 0%; /*afstand tussen rechterkant en blauwe blokje*/
+  width: 96%; /*breedte*/
+  background-color: #0084ff; /*kleur blokje*/
 }
 
 
 .hele-body2
 {
-  position: absolute;
-  top: 15%;
-  left: 2%;
-  right: 0%;
-  width: 96%;
-  background-color: #0084ff;
+  position: absolute; /*positie van het element*/
+  top: 15%; /*afstand tussen de bovenkant en blauwe blokje*/
+  left: 2%; /*afstand tussen linkerkant en blauwe blokje*/
+  right: 0%; /*afstand tussen rechterkant en blauwe blokje*/
+  width: 96%; /*breedte*/
+  background-color: #0084ff; /*kleur blokje*/
 }
 
 
 .hele-body3
 {
-  position: absolute;
-  top: 15%;
-  left: 2%;
-  right: 0%;
-  width: 96%;
-  background-color: #0084ff;
+  position: absolute; /*positie van het element*/
+  top: 15%; /*afstand tussen de bovenkant en blauwe blokje*/
+  left: 2%; /*afstand tussen linkerkant en blauwe blokje*/
+  right: 0%; /*afstand tussen rechterkant en blauwe blokje*/
+  width: 96%; /*breedte*/
+  background-color: #0084ff; /*kleur blokje*/
 }
 
 
 .hele-body4
 {
-  position: absolute;
-  top: 15%;
-  left: 2%;
-  right: 0%;
-  width: 96%;
-  background-color: #0084ff;
-}
+  position: absolute; /*positie van het element*/
+  top: 15%;  /*afstand tussen de bovenkant en blauwe blokje*/
+  left: 2%; /*afstand tussen linkerkant en blauwe blokje*/
+  right: 0%; /*afstand tussen rechterkant en blauwe blokje*/
+  width: 96%; /*breedte*/
+  background-color: #0084ff; /*kleur blokje*/
+}  
 
 
 .hele-body5
 {
-  position: absolute;
-  top: 15%;
-  left: 2%;
-  right: 0%;
-  width: 96%;
-  background-color: #0084ff;
+  position: absolute; /*positie van het element*/
+  top: 15%; /*afstand tussen de bovenkant en blauwe blokje*/
+  left: 2%; /*afstand tussen linkerkant en blauwe blokje*/
+  right: 0%; /*afstand tussen rechterkant en blauwe blokje*/
+  width: 96%; /*breedte*/
+  background-color: #0084ff; /*kleur blokje*/
 }
 
 
 .hele-body6
 {
-  position: absolute;
-  top: 15%;
-  left: 2%;
-  right: 0%;
-  width: 96%;
-  background-color: #0084ff;
+  position: absolute; /*positie van het element*/
+  top: 15%; /*afstand tussen de bovenkant en blauwe blokje*/
+  left: 2%; /*afstand tussen linkerkant en blauwe blokje*/
+  right: 0%; /*afstand tussen rechterkant en blauwe blokje*/
+  width: 96%; /*breedte*/
+  background-color: #0084ff; /*kleur blokje*/
 }
