@@ -65,18 +65,6 @@ h3 {
     text-align: left; /*tekst gaat naar linker kant*/
    }
 
-   
-.image1
-{
-  float: right;
-  width: 90%;
-}
-
-.position-img1 
-{
-  position: absolute;
-  display: flex;
-}
 
 .hele-body1
 {
@@ -88,6 +76,7 @@ h3 {
   background-color: #0084ff;
 }
 
+
 .hele-body2
 {
   position: absolute;
@@ -97,6 +86,7 @@ h3 {
   width: 96%;
   background-color: #0084ff;
 }
+
 
 .hele-body3
 {
@@ -108,6 +98,7 @@ h3 {
   background-color: #0084ff;
 }
 
+
 .hele-body4
 {
   position: absolute;
@@ -117,6 +108,7 @@ h3 {
   width: 96%;
   background-color: #0084ff;
 }
+
 
 .hele-body5
 {
@@ -128,6 +120,7 @@ h3 {
   background-color: #0084ff;
 }
 
+
 .hele-body6
 {
   position: absolute;
@@ -136,19 +129,4 @@ h3 {
   right: 0%;
   width: 96%;
   background-color: #0084ff;
-}
-
-
-.position-img2
-{
-  float: right;
-  display: flex;
-  width: 60%;
-}
-
-.position-img3
-{
-  float: right;
-  display: flex;
-  width: 60%;
 }
