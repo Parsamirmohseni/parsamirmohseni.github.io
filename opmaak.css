@@ -134,8 +134,8 @@ h3 {
 
 .footer {
   background-color: #5e769e; /*achtergrondkleur footer*/
-  padding: 12px; /* Ruimte rondom de inhoud van de footer */
-  text-align: center; /* Centreer de te*/
+  padding: 12px; /*padding dus de stukje van de opvulling*/
+  text-align: center; /*tekst naar midden*/
   color: white; /* Tekstkleur van de footer */
   position: bottom; /* Positie van de footer */
   width: 100%; /* Breedte van de footer */
