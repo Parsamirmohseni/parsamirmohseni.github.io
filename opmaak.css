@@ -1,63 +1,71 @@
 body {
   background-color: rgb(202,240,248); /*achtergrond kleur hele pagina*/
-  margin: 0;
-  padding: 0;
+  margin: 0; /*marge dus de stukje wat leeg was wordt verwijdert*/
+  padding: 0; /*padding dus de stukje van de opvulling*/
 }
+
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0; /*marge dus de stukje wat leeg was wordt verwijdert*/
+    padding: 0; /*padding dus de stukje van de opvulling*/
     overflow: hidden;
     background-color: #5e769e; /*achtergrond kleur menu*/
   }
   
-li {
-    float: left;
-  }
   
+li {
+    float: left; /*list ietems gaan naast elkaar*/
+  }
+
+
 li a {
-    display: block;
+    display: block; /*blokje van menu*/
     color: rgb(0, 0, 0); /*tekst kleur menu*/
-    text-align: center;
+    text-align: center; /*tekst gaat naar midden*/
     padding: 20px 20px; /*grootte blok menu*/
     text-decoration: none;
   }
   
-li a:hover {
+  
+  li a:hover {
     background-color: #ffffff; /*achtergrond kleur menu als je er op gaat*/
   }
+
 
 h1 {
   font-family: Arial, sans-serif; /*font titel op pagina*/
   font-size: 50px; /*size titel op pagina*/
   color: #000000; /*kleur titel op pagina*/
   font-style: normal; /*font titel op pagina*/
-  margin: auto;
-  padding: auto;
-  text-align: left;
+  margin: auto; /*marge dus de stukje wat leeg was wordt verwijdert*/
+  padding: auto; /*padding dus de stukje van de opvulling*/
+  text-align: left; /*tekst gaat naar linker kant*/
   }
+
 
 h2 {
     font-family: Arial, sans-serif; /*font titel op pagina*/
     font-size: 20px; /*size titel op pagina*/
     color: #000000; /*kleur titel op pagina*/
     font-style: normal; /*font titel op pagina*/
-    margin: auto;
-    padding: auto;
-    text-align: left;
+    margin: auto; /*marge dus de stukje wat leeg was wordt verwijdert*/
+    padding: auto; /*padding dus de stukje van de opvulling*/
+    text-align: left; /*tekst gaat naar linker kant*/
     }
+
 
 h3 {
     font-family: Arial, sans-serif; /*font titel op pagina*/
     font-size: 20px; /*size titel op pagina*/
     color: #000000; /*kleur titel op pagina*/
     font-style: normal; /*font titel op pagina*/
-    margin: auto;
-    padding: auto;
-    text-align: left;
+    margin: auto; /*marge dus de stukje wat leeg was wordt verwijdert*/
+    padding: auto; /*padding dus de stukje van de opvulling*/
+    text-align: left; /*tekst gaat naar linker kant*/
    }
 
+   
 .image1
 {
   float: right;
