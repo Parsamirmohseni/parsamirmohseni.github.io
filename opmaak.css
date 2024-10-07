@@ -40,7 +40,7 @@ h1 {
 
 h2 {
     font-family: Arial, sans-serif; /*font titel op pagina*/
-    font-size: 25px; /*size titel op pagina*/
+    font-size: 20px; /*size titel op pagina*/
     color: #000000; /*kleur titel op pagina*/
     font-style: normal; /*font titel op pagina*/
     margin: auto;
@@ -50,7 +50,7 @@ h2 {
 
 h3 {
     font-family: Arial, sans-serif; /*font titel op pagina*/
-    font-size: 25px; /*size titel op pagina*/
+    font-size: 20px; /*size titel op pagina*/
     color: #000000; /*kleur titel op pagina*/
     font-style: normal; /*font titel op pagina*/
     margin: auto;
