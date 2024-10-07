@@ -138,6 +138,6 @@ h3 {
   text-align: center; /*tekst naar midden*/
   color: white; /* Tekstkleur van de footer */
   position: bottom; /* Positie van de footer */
-  width: 95%; /* Breedte van de footer */
+  width: 75%; /* Breedte van de footer */
   left: 1; /* Ruimte naar de linkerkant */
 }
